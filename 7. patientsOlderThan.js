@@ -1,4 +1,4 @@
-const patients = require("./patients");
+const patients = require("./0. patients");
 // hardcoding age 65 for now, we can make this dynamic later
 const age = process.argv[2];
 

@@ -1,4 +1,4 @@
-const patients = require("./patients");
+const patients = require("./0. patients");
 
 //hardcode data
 const weight = process.argv[2];

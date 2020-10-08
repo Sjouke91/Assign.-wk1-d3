@@ -1,7 +1,7 @@
 // arrayPractice.js
 
 // importing our array of patients using `require`
-const patients = require("./patients");
+const patients = require("./0. patients");
 
 // console.log(firstPatient);
 

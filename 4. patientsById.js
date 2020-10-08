@@ -1,4 +1,4 @@
-const patients = require("./patients");
+const patients = require("./0. patients");
 const id = parseInt(process.argv[2]);
 
 // const specificPatient = patients.find(function(patient) {
